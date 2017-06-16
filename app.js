@@ -13,10 +13,3 @@ weatherApp.config(function($routeProvider) {
     });
 });
 
-weatherApp.controller('homeController', [function() {
-
-}]);
-
-weatherApp.controller('forecastController', [function() {
-
-}]);
